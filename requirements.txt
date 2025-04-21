@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+pytrends
+prophet
+scikit-learn
+urllib3==1.26.15
+statsmodels
+streamlit
+urllib3
+requests
+statsmodels
+streamlit
+urllib3
+requests
+
